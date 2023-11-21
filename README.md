@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jyotsna-Gurjar
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning machine learning models
+- I am currently working as a Data analyst
